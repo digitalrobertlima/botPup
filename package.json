@@ -1,0 +1,21 @@
+{
+  "name": "botpup",
+  "version": "1.0.0",
+  "description": "an app for puppeteer tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "bot",
+    "puppeteer",
+    "browser",
+    "web",
+    "search"
+  ],
+  "author": "scr1pt3r",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
